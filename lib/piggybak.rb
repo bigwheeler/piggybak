@@ -7,7 +7,6 @@ require 'active_merchant'
 require 'formatted_changes'
 require 'mask_submissions'
 require 'rack-ssl-enforcer'
-require 'rails_admin'
 require 'devise'
 
 module Piggybak
